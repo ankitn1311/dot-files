@@ -1,4 +1,4 @@
-# dotFiles
+# dot-files
 Linux Dot files
 BSPWM
 SXHRD
